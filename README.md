@@ -29,7 +29,7 @@ Finally, the chatbot engages the user in a quiz game. It asks a question with fo
 - Python 3.x
 
 ## Files Included
-- `chatbot.py`: The main Python script containing the chatbot logic.
+- `simple_chatbot.py`: The main Python script containing the chatbot logic.
 
 ## How to Run
 To run the chatbot:

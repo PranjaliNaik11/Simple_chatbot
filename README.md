@@ -1,4 +1,4 @@
-# Chatbot Readme
+# Simple Chatbot
 
 ## Introduction
 This is a simple Python chatbot created to interact with users in various ways: introducing itself, guessing the user's age, counting numbers up to a specified limit, and playing a quiz game.

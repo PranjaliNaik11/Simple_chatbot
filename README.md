@@ -20,7 +20,7 @@ Following age guessing, the chatbot demonstrates its ability to count numbers fr
 ### 5. Quiz Game
 Finally, the chatbot engages the user in a quiz game. It asks a question with four options and continues asking for an answer until the correct option is chosen. Upon correct answer, the chatbot congratulates the user and exits gracefully.
 
-## Usage
+## Usage:
 1. **Starting the Chatbot**: Run the Python script `chatbot.py`.
 2. **Interaction**: Follow the prompts provided by the chatbot.
 3. **Exiting**: The chatbot will exit after the quiz question is answered correctly.

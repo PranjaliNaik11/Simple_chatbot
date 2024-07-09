@@ -1,9 +1,9 @@
 # Simple Chatbot
 
-## Introduction
+## Introduction:
 This is a simple Python chatbot created to interact with users in various ways: introducing itself, guessing the user's age, counting numbers up to a specified limit, and playing a quiz game.
 
-## Functionality
+## Functionality:
 
 ### 1. Introduction
 Upon starting, the chatbot will introduce itself and provide the year it was created.
@@ -25,7 +25,7 @@ Finally, the chatbot engages the user in a quiz game. It asks a question with fo
 2. **Interaction**: Follow the prompts provided by the chatbot.
 3. **Exiting**: The chatbot will exit after the quiz question is answered correctly.
 
-## Requirements
+## Requirements:
 - Python 3.x
 
 ## Files Included

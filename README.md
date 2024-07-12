@@ -5,7 +5,7 @@ This is a simple Python chatbot created to interact with users in various ways: 
 
 ## Functionality:
 
-### 1. Introduction
+### 1. Introduction:
 Upon starting, the chatbot will introduce itself and provide the year it was created.
 
 ### 2. Greeting

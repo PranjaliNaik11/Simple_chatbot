@@ -8,7 +8,7 @@ This is a simple Python chatbot created to interact with users in various ways: 
 ### 1. Introduction:
 Upon starting, the chatbot will introduce itself and provide the year it was created.
 
-### 2. Greeting
+### 2. Greeting:
 After introduction, the chatbot asks the user for their name and greets them personally.
 
 ### 3. Guessing Age

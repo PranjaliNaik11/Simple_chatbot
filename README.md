@@ -11,7 +11,7 @@ Upon starting, the chatbot will introduce itself and provide the year it was cre
 ### 2. Greeting:
 After introduction, the chatbot asks the user for their name and greets them personally.
 
-### 3. Guessing Age
+### 3. Guessing Age:
 Next, the chatbot attempts to guess the user's age by asking for remainders when the age is divided by 3, 5, and 7.
 
 ### 4. Counting Numbers

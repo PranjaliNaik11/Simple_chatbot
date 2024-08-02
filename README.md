@@ -31,7 +31,7 @@ Finally, the chatbot engages the user in a quiz game. It asks a question with fo
 ## Files Included:
 - `simple_chatbot.py`: The main Python script containing the chatbot logic.
 
-## How to Run
+## How to Run:
 To run the chatbot:
 ```bash
 python simple_chatbot.py

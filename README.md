@@ -14,7 +14,7 @@ After introduction, the chatbot asks the user for their name and greets them per
 ### 3. Guessing Age:
 Next, the chatbot attempts to guess the user's age by asking for remainders when the age is divided by 3, 5, and 7.
 
-### 4. Counting Numbers
+### 4. Counting Numbers:
 Following age guessing, the chatbot demonstrates its ability to count numbers from 0 up to a positive integer entered by the user.
 
 ### 5. Quiz Game

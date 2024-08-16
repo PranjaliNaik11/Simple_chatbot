@@ -37,7 +37,7 @@ To run the chatbot:
 python simple_chatbot.py
 ```
 
-## Development Notes
+## Development Notes:
 - The chatbot is designed to be simple and educational, demonstrating basic interaction and logic flow in Python.
 - It handles input validation for numeric entries to ensure smooth operation during counting and quiz sections.
 
